@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>/Users/pedrocopes/Desktop/entrega2</OriginalElement>
+  <nodes>
+    <node x="792.0" y="0.0">src.main.java.entity.Career</node>
+    <node x="455.0" y="1336.0">DTO.ReportDTO</node>
+    <node x="0.0" y="566.0">src.main.java.DAO.imp.StudentDAOImpl</node>
+    <node x="567.0" y="566.0">DAO.imp.StudentDAOImpl</node>
+    <node x="0.0" y="986.0">DAO.StudentDAO</node>
+    <node x="567.0" y="986.0">src.main.java.DAO.StudentDAO</node>
+    <node x="422.0" y="0.0">entity.CareerStudent</node>
+    <node x="0.0" y="1172.0">DAO.CareerStudentDAO</node>
+    <node x="1118.0" y="1172.0">DAO.imp.CareerDAOImpl</node>
+    <node x="0.0" y="1480.0">DAO.CareerDAO</node>
+    <node x="1356.0" y="0.0">entity.CareerStudentId</node>
+    <node x="1134.0" y="986.0">src.main.java.entity.CareerStudentId</node>
+    <node x="883.0" y="1336.0">src.main.java.Main</node>
+    <node x="370.0" y="776.0">src.main.java.DAO.imp.CareerStudentDAOImpl</node>
+    <node x="1307.0" y="1336.0">src.main.java.DTO.ReportDTO</node>
+    <node x="0.0" y="776.0">src.main.java.entity.CareerStudent</node>
+    <node x="559.0" y="1172.0">src.main.java.DAO.CareerStudentDAO</node>
+    <node x="0.0" y="1336.0">src.main.java.DAO.imp.CareerDAOImpl</node>
+    <node x="929.0" y="776.0">DAO.imp.CareerStudentDAOImpl</node>
+    <node x="455.0" y="1480.0">src.main.java.DAO.CareerDAO</node>
+    <node x="0.0" y="0.0">entity.Student</node>
+    <node x="1134.0" y="566.0">src.main.java.entity.Student</node>
+    <node x="1095.0" y="1336.0">Main</node>
+    <node x="1074.0" y="0.0">entity.Career</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic" zoom="0.49206349206349204" showDependencies="false" x="795.0" y="777.5" />
+  <SelectedNodes>
+    <node>src.main.java.DAO.imp.StudentDAOImpl</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
